@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "nombre": "sin_categoria",
+        "descripcion": "productos sin categoria asignada",
+        "activa": true
+    },
+    {
+        "id": 2,
+        "nombre": "aguas y aguas saborizadas",
+        "descripcion": "Agua mineral y bebidas saborizadas sin alcohol",
+        "activa": true
+    },
+    {
+        "id": 3,
+        "nombre": "almacen",
+        "descripcion": "Productos de almacén en general",
+        "activa": true
+    },
+    {
+        "id": 4,
+        "nombre": "cafe-yerba-te-mate",
+        "descripcion": "Infusiones como café, yerba, té y mate",
+        "activa": true
+    },
+    {
+        "id": 5,
+        "nombre": "cerveza",
+        "descripcion": "Variedades de cervezas nacionales e importadas",
+        "activa": true
+    },
+    {
+        "id": 6,
+        "nombre": "cigarrillos",
+        "descripcion": "Cigarrillos y tabaco",
+        "activa": true
+    },
+    {
+        "id": 7,
+        "nombre": "condimentos",
+        "descripcion": "Condimentos y especias para cocinar",
+        "activa": true
+    },
+    {
+        "id": 8,
+        "nombre": "congelados",
+        "descripcion": "Alimentos congelados listos para consumir",
+        "activa": true
+    },
+    {
+        "id": 9,
+        "nombre": "fiambleria/panaderia",
+        "descripcion": "Fiambres, embutidos, panificados y pastelería",
+        "activa": true
+    },
+    {
+        "id": 10,
+        "nombre": "galletitas",
+        "descripcion": "Variedad de galletitas dulces y saladas",
+        "activa": true
+    },
+    {
+        "id": 11,
+        "nombre": "gaseosas coca cola",
+        "descripcion": "Gaseosas de la marca Coca Cola y derivados",
+        "activa": true
+    },
+    {
+        "id": 12,
+        "nombre": "golosinas",
+        "descripcion": "Caramelos, chocolates y golosinas en general",
+        "activa": true
+    },
+    {
+        "id": 13,
+        "nombre": "jugos liquidos",
+        "descripcion": "Jugos líquidos envasados listos para beber",
+        "activa": true
+    },
+    {
+        "id": 14,
+        "nombre": "jugos en polvo",
+        "descripcion": "Jugos en polvo para preparar",
+        "activa": true
+    },
+    {
+        "id": 15,
+        "nombre": "lacteos",
+        "descripcion": "Productos lácteos como leche, queso y yogurt",
+        "activa": true
+    },
+    {
+        "id": 16,
+        "nombre": "limpieza",
+        "descripcion": "Artículos de limpieza y desinfección",
+        "activa": true
+    },
+    {
+        "id": 17,
+        "nombre": "medicamentos",
+        "descripcion": "Medicamentos de venta libre",
+        "activa": true
+    },
+    {
+        "id": 18,
+        "nombre": "servicios",
+        "descripcion": "Servicios varios ofrecidos en el comercio",
+        "activa": true
+    },
+    {
+        "id": 19,
+        "nombre": "snack",
+        "descripcion": "Snacks salados como papas fritas y similares",
+        "activa": true
+    },
+    {
+        "id": 20,
+        "nombre": "vinoteca",
+        "descripcion": "Vinos y bebidas alcohólicas de bodega",
+        "activa": true
+    },
+    {
+        "id": 21,
+        "nombre": "PROMOCIONES CONSULTAR",
+        "descripcion": "Promociones especiales, consultar en caja",
+        "activa": true
+    }
+]
